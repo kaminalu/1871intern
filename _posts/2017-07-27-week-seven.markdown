@@ -1,0 +1,18 @@
+---
+layout: post
+title:  "Week Seven"
+date:   2017-07-27 18:47:52 -0500
+---
+As my time as an intern here at 1871 begins to come to a close, I have been working hard to figure out what it is that I want to get out of my final days.  A few big things happened this week that are pushing me in a direction that I was not expecting, and I am not entirely sure that I am ready for it.
+
+First, WiSTEM, a tech startup accelerator for female-founded companies, announced their list of companies accepted into cohort five.  As a reminder, WiSTEM held an event at 1871 a few weeks ago which I attended, showcasing the companies that graduated from cohort four.  It was amazing and inspiring to see confident, capable women on stage pitching their companies to a room of hundreds of enthralled guests.  Now, one of the companies accepted into cohort five is Respirare, a company developing a mobile health application and device for people with chronic uncontrolled asthma.  
+
+In April of this year, Respirare began as a team of ten college students that participated in 1871’s college level, “hackathon” style, entrepreneurial contest called Campus 1871.  After three long, work-filled days, they pitched their idea for the medical app and device to a crowd of students, entrepreneurs, and judges… and won.  And, as it happens, I was on this team.
+
+Flash-forward to this week, when WiSTEM announced Respirare’s acceptance into cohort five.  There are few words to describe my feelings about this.  Saying that the realization of the implications has been slow would be a colossal understatement.  I revealed my participation in Respirare to my fellow interns and my supervisors this week, and their reactions were overwhelmingly positive.  They actually seemed more excited than I felt.  I keep thinking that it merely has yet to sink in, and that I will understand the importance that everyone else gets later.  As my new role with Respirare develops, I’m hoping to get over the shock and get to work.
+
+This week’s second big deal is that my participation in the SIGGRAPH conference in Los Angeles has overlapped with my last scheduled week as an intern at 1871, and I was able to have a sit-down chat with my supervisors, Kat and Veronica, about how best to conclude my time at 1871.  It was a tough conversation to have.  I feel immensely disappointed that I have to move on, and that this experience will not last forever.  I also feel like I have made some friends that I will be sad to no longer see, and worked on projects like the mentor parity initiative that I would love to see through to the end.  However, Kat and Veronica listened to my concerns and told me that they feel the same way, and that they are glad I had such a wonderful experience.  They also offered referrals and recommendations if I ever needed them.
+
+One thing that stood out from our conversation, though, was something that Kat said.  She acknowledged the importance of my participation in Respirare and WiSTEM, and said two words that I was not expecting, “lean in.”
+
+My fear of failure and my lack of confidence in my future can often be a barrier to starting new things.  During a fireside chat this week with Shanique Davis, founder of Noirefy, I asked her what she did as the first step to starting her business.  She said she thought of the name.  That was it.  Not making a huge, seemingly insurmountable to-do list.  Just the name.  And taking her advice, I can only assume my next step is just that, a step.  And eventually, all steps will add up to a journey, but I don’t have to think about that just yet.  For now, I only have to lean into that one first step.
