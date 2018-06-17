@@ -17,7 +17,7 @@ title: 1871 Summer Internship Reflections
 email: akamin@hawk.iit.edu
 description: > # this means to ignore newlines until "baseurl:"
   This was originally submitted as a group of reflective essays 
-  describing my time spent as an intern in the programming department 
+  describing my time spent as a summer intern in the programming department 
   at 1871, a tech startup hub in Chicago.
 baseurl: "/1871intern" # the subpath of your site, e.g. /blog
 url: "https://kaminalu.github.io" # the base hostname & protocol for your site
