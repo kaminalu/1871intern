@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Week Three"
+title:  "Week Three - Learning from Others, Listening to Myself"
 date:   2017-06-29 18:47:52 -0500
 ---
 The third week of my internship at 1871 began to feel more natural, as coming and going lost its novelty.  It also gave me quite a lot to think about in terms of professional growth and where I hope to be in the coming months and years.  The working environment is easily the most unique, but also the people I work with – my supervisors, people in other departments, and executives – have all been so incredibly warm and generous with their time and advice that it really makes me want to work in a place where everyone is similarly supportive of each other. 
