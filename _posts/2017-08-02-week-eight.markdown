@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Week Eight"
+title:  "Week Eight - Challenges"
 date:   2017-08-02 18:47:52 -0500
 ---
 My last week as an 1871 intern left me with several lasting impressions that I hope to carry with me as I continue to navigate the tech industry as a professional woman.  Kicking off with a Speed Networking event where I watched an auditorium full of entrepreneurs and start-up professionals meet and chat with each other, I tried to soak in as much as possible before I left the space for good.
