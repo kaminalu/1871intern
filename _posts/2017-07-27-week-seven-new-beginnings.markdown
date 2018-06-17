@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Week Seven"
+title:  "Week Seven - New Beginnings"
 date:   2017-07-27 18:47:52 -0500
 ---
 As my time as an intern here at 1871 begins to come to a close, I have been working hard to figure out what it is that I want to get out of my final days.  A few big things happened this week that are pushing me in a direction that I was not expecting, and I am not entirely sure that I am ready for it.
