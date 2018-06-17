@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Week Nine"
+title:  "Week Nine - The Long, Reflective Goodbye"
 date:   2017-08-15 18:47:52 -0500
 ---
 The point of an internship, as I understand it, is to reach past traditional academic experiences to learn more about what it is like to work in a field related to one’s career aspirations.  Theoretically, there would be opportunities to learn about how a company operates and how a job is performed, while picking up associated skills and industry knowledge along the way.  1871 in Chicago is not a typical company in a typical industry.  Described as a tech and innovation hub for startups and entrepreneurs, it hosts related workshops and events for its over 500 member companies and plays a critical role in expanding professional relationships and knowledge with their mentor program – all with a full-time staff of thirty.  This summer, 1871 sought a number of interns to help them achieve some new goals.  I applied to be an intern to assist their programming department with building out their available workshop curricula and mentor pool, and I was hired for the nine-week position.  Ultimately, I found that while my expectations were met pertaining to the above opportunities, this internship also gave me a greater understanding of myself and my goals and interests as I worked on meaningful projects and strengthened my professional network.
