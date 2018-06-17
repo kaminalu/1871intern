@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Week Four"
+title:  "Week Four - Connecting the Dots"
 date:   2017-07-05 18:47:52 -0500
 ---
 Understanding how to sell myself has never been a strong trait in me.  In fact, I feel miserable when I talk about myself and often try to change the subject as quickly as possible.  However, this week at 1871 I learned to be a bit more vocal about my strengths and weaknesses, while knowing the importance of listening to others and understanding the meaning behind their questions to more effectively “sell” my answer.
