@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Week Two"
+title:  "Week Two - Managing Priorities and Building Connections"
 date:   2017-06-22 18:47:52 -0500
 ---
 Stepping into the second week of my internship in the programming department at 1871, I knew that I would be working on a larger project for the company – one that would broaden the scope of workshops available to their business community.  What I did not know was how often and how much that project would get set aside for other, more urgent assignments.  Case in point, 1871 has very recently pledged to attain full gender parity in their mentor roster, and I was tasked to help build out their contact list.  Immediately, I needed to pivot my focus from one method of research to another.  Digging into entrepreneurial curricula and interviewing people was replaced with methodical LinkedIn and Facebook deep-diving.  It helped to be flexible here, and I think my willingness to turn heel so quickly was viewed positively by my supervisors.
