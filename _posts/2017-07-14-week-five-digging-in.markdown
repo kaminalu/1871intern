@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Week Five"
+title:  "Week Five - Digging In"
 date:   2017-07-14 18:47:52 -0500
 ---
 This week was a short one due to the Independence Day holiday, and so there were fewer opportunities to participate in workshops and events at 1871.  However, my team, as part of the Programming Department, began to dive head-first into the new mentor initiative to increase diversity in the available mentor pool.  
