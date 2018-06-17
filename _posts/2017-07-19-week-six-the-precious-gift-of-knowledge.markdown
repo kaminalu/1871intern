@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Week Six"
+title:  "Week Six - The Precious Gift of Knowledge"
 date:   2017-07-19 18:47:52 -0500
 ---
 So far, at week six as an intern at 1871 I have met at least a dozen different founders and CEO’s, and heard more stories than I can number.  One thing continues to stand out (apart from networking and that it’s all who you know): learning more never goes out of style.  Educating yourself is never a wrong thing to do.
