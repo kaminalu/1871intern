@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Week One"
+title:  "Week One - Welcome to 1871"
 date:   2017-06-15 18:47:52 -0500
 ---
 As one of the largest and most successful non-profit tech innovation hubs and accelerators in the world, 1871 Chicago is one of the best places to experience what is up-and-coming in business and technology.  It is home to a wide range of companies from start-ups to established multi-billion dollar corporations and functions as a vastly unique working environment.  This was easily the greatest thing I had to learn this week because it meant adjusting my normal working assumptions on almost every level.
